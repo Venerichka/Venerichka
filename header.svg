@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Header">
+  <rect width="100%" height="100%" fill="#0b0b0b" rx="10" ry="10"/>
+
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:system-ui,Arial;color:#fff;">
+      <div style="box-sizing:border-box;width:100%;height:100%;padding:18px;position:relative;">
+
+        <!-- Центрированная лампа -->
+        <div style="text-align:center;">
+          <img src="./lamp-01.gif" alt="lamp" width="300" style="display:block;margin:0 auto 6px;">
+        </div>
+
+        <!-- Зачеркнутый заголовок -->
+        <div style="text-align:center;margin:4px 0 8px 0;">
+          <span style="text-decoration:line-through;color:#f7cde6;font-size:28px;">Welcome? No.</span>
+        </div>
+
+        <!-- H2: иконки и имя -->
+        <div style="text-align:center;margin-bottom:8px;">
+          <img src="./shrimp.gif" alt="left" style="width:36px;vertical-align:middle;margin-right:8px;">
+          <span style="font-size:16px;vertical-align:middle;">Hewwo!!:3 Im GuroKawa(,,¬﹏¬,,)</span>
+          <img src="./mini-graphics-arrows-028431.gif" alt="right" style="width:36px;vertical-align:middle;margin-left:8px;">
+        </div>
+
+        <!-- Плашка "Im little bit freaky" -->
+        <div style="display:flex;align-items:center;justify-content:center;margin:8px 0;">
+          <div style="border:2px solid #ff69b4;border-radius:10px;padding:8px 12px;background:rgba(0,0,0,0.55);display:flex;align-items:center;gap:10px;">
+            <img src="./eyes-01.gif" alt="eyes" style="width:80px;border-radius:6px;">
+            <div style="text-align:center;color:#ddd;">
+              <div style="font-size:13px">Im little bit</div>
+              <div style="font-size:18px;margin-top:4px;">✨𝓯𝓻𝓮𝓪𝓴𝔂✨</div>
+            </div>
+            <img src="./wtrchoke.gif" alt="wtr" style="width:80px;border-radius:6px;">
+          </div>
+        </div>
+
+        <!-- Центр: float gif и правая цитата -->
+        <div style="position:relative;width:100%;max-width:640px;margin:6px auto;padding:10px;border:2px solid #ff69b4;border-radius:10px;background:rgba(0,0,0,0.6);">
+          <div style="text-align:center;">
+            <img src="./float-01.gif" alt="float" width="160" style="display:block;margin:0 auto;">
+          </div>
+
+          <!-- верхняя правая цитата (поворот) -->
+          <div style="position:absolute;top:6px;right:8px;transform:rotate(-12deg);font-size:14px;line-height:1;text-shadow:0 0 5px rgba(255,105,180,0.4);max-width:200px;text-align:center;">
+            <div>どこにいたって、<br/>人は繋がっているのよ</div>
+            <div style="font-size:11px;opacity:0.85;margin-top:6px;">Doko ni itatte, hito wa<br/>tsunagatte iru no yo</div>
+          </div>
+        </div>
+
+        <!-- About + candle + kittie справа -->
+        <div style="display:flex;align-items:stretch;justify-content:center;gap:12px;margin-top:10px;">
+          <div style="border:2px solid #ff69b4;border-radius:8px;padding:10px;width:300px;background:rgba(0,0,0,0.55);color:#fff;text-align:left;">
+            <div style="text-align:center;font-weight:600;margin-bottom:6px;">Thats about meee, yeep</div>
+            <ul style="margin:0 0 6px 18px;padding:0;font-size:12px;">
+              <li>I love doing something in computer</li>
+              <li>I am a little silly sysadmin</li>
+              <li>Learning pentesting bleh and other</li>
+              <li>Linux enjoyer btw 𓁹‿𓁹 HEH.</li>
+            </ul>
+            <div style="text-align:center;margin-top:6px;">
+              <img src="./candle-02.gif" alt="candle" width="64">
+            </div>
+          </div>
+
+          <div style="display:flex;align-items:center;">
+            <img src="./kittie.png" alt="kittie" style="height:120px;border-radius:8px;">
+          </div>
+        </div>
+
+      </div>
+    </body>
+  </foreignObject>
+</svg>
