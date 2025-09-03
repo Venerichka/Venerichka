@@ -3,11 +3,11 @@
   <img src="lamp-01.gif" alt="lamp" width="300">
 </p>
 
-<p align="center">
+<h1 align="center">
   <img src="shrimp.gif" alt="left" width="40" />  
   **Hewwo!!:3 Im GuroKawa(,,¬﹏¬,,)**  
   <img src="mini-graphics-arrows-028431.gif" alt="right" width="40" />
-</p>
+</h1>
 
 ---
 
